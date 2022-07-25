@@ -1,0 +1,8 @@
+.CircularProgressbar-text{
+   text-anchor: middle;
+}
+
+.CircularProgressbar-path{
+    stroke-width:3;
+   
+}

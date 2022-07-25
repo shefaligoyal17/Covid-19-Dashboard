@@ -1,0 +1,46 @@
+.Twitter{
+    background-color: #ffffff;
+    border-radius: 7px;
+    padding:15px;
+    max-height:545px;
+    overflow-y: scroll;  
+}
+.Twitter::-webkit-scrollbar {
+    width: 1px;
+    background: #dfe1e8;
+}
+
+.Twitter::-webkit-scrollbar-thumb {
+    background: #dfe1e8;
+
+}
+
+
+.Timeline{
+    min-height:400px;
+}
+
+.TwitterIcon{
+    margin-left:10px;
+}
+.Tweets{
+    text-align: left;
+    font-size:18px;
+    font-weight: bold;
+   
+}
+
+@media(max-width:1023px){
+    .Twitter{
+       margin-bottom: 10px;
+       margin-top:10px;
+        min-height:550px;
+        box-sizing: border-box;
+    }
+}
+
+@media(max-width:767px){
+    .Twitter{
+        margin-bottom: 20px;
+    }
+}

@@ -1,0 +1,214 @@
+{
+    "status": "ok",
+    "totalResults": 16,
+    "articles": [
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "Andrew Kaczynski, Em Steck and Nathan McDermott, CNN",
+            "title": "'Nothing to worry about' and 'it's being contained': How Trump officials downplayed the coronavirus",
+            "description": "A day after the White House requested $1.25 billion in emergency funding to address the growing worldwide coronavirus crisis, Larry Kudlow, the President's chief economic adviser, appeared on CNBC.",
+            "url": "https://www.cnn.com/2020/04/18/politics/kfile-trump-officials-coronavirus/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/200304213933-leopoldo-trump-super-tease.jpg",
+            "publishedAt": "2020-04-18T14:33:54+00:00",
+            "content": "(CNN)A day after the White House requested $1.25 billion in emergency funding to address the growing worldwide coronavirus crisis, Larry Kudlow, the President's chief economic adviser, appeared on CNBC. \r\nThe coronavirus, Kudlow said on February 25, was \"cont… [+19021 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Hillary Hoffower",
+            "title": "Top vacation spots the wealthy fled to during the coronavirus pandemic - Business Insider",
+            "description": "The wealthy are sheltering everywhere from coastal New England and western ski resorts in the US to the English countryside.",
+            "url": "http://www.businessinsider.com/wealthy-fled-big-cities-vacation-homes-during-coronavirus-pandemic-2020-4",
+            "urlToImage": "https://i.insider.com/5e99c13dc023204eae784f47?width=1200&format=jpeg",
+            "publishedAt": "2020-04-18T13:17:00Z",
+            "content": "The wealthy have taken flight.\r\nThey've left their urban dwellings behind, escaping to smaller communities that offer them the luxury of more space and access to nature as they ride out the pandemic.\r\nSome have taken refuge in their second homes, where they'r… [+1053 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Guido Vanham and Peter Vanham",
+            "title": "Why a vaccine for the coronavirus takes so long to develop - Business Insider",
+            "description": "\"SARS-CoV2 vaccines will not be realistically available for another 12-18 months. And even then, we must be lucky every step of the way.\"",
+            "url": "http://www.businessinsider.com/why-vaccine-for-coronavirus-takes-so-long-to-develop-2020-4",
+            "urlToImage": "https://i.insider.com/5e9a6a4815ea4b0cad17f853?width=1200&format=jpeg",
+            "publishedAt": "2020-04-18T13:00:00Z",
+            "content": "Business Insider\r\nThis week, my father and siblings had an Easter like no other. We held an online \"HouseParty\" with the whole family, which was a chaotic but fun thing to do, and my sister's children went Easter egg hunting in my parents garden. We were hopi… [+15896 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Kate Taylor",
+            "title": "Trump's restaurant recovery plan is built on fast food, chains - Business Insider",
+            "description": "Experts say smaller, independent restaurants will have the hardest time surviving the coronavirus pandemic.",
+            "url": "http://www.businessinsider.com/trumps-restaurant-recovery-plan-is-built-on-fast-food-chains-2020-4",
+            "urlToImage": "https://i.insider.com/5e73b271c4854011946367a3?width=1200&format=jpeg",
+            "publishedAt": "2020-04-18T13:00:00Z",
+            "content": "Business Insider\r\nPresident Trump — a noted fast-food fan — is creating an economic recovery plan that puts the country's chains front and center. \r\nThis week, Trump announced the formation of the \"Great American Economic Revival Industry Group\" for the resta… [+4707 chars]"
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "Reuters Editorial",
+            "title": "China reports 27 new coronavirus cases, death toll at 4,632 after data revisions",
+            "description": "China's National Health Commission reported 27 new confirmed coronavirus cases on April 17, up from 26 the day earlier, according to data published on Saturday.",
+            "url": "https://www.reuters.com/article/us-health-coronavirus-china-idUSKBN22003V",
+            "urlToImage": "https://s3.reutersmedia.net/resources/r/?m=02&d=20200418&t=2&i=1515566658&w=1200&r=LYNXMPEG3H047",
+            "publishedAt": "2020-04-18T11:30:13+00:00",
+            "content": "SHANGHAI (Reuters) - China’s National Health Commission reported 27 new confirmed coronavirus cases on April 17, up from 26 the day earlier, according to data published on Saturday. \r\nOf that figure, 17 cases were imported via individuals arriving overseas, u… [+718 chars]"
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "Christy Bieber",
+            "title": "4 Smart Things to Do With Your Coronavirus Stimulus Check",
+            "description": "Make wise use of the funds the government is providing.",
+            "url": "https://www.fool.com/personal-finance/2020/04/18/4-smart-things-to-do-with-your-coronavirus-stimulu.aspx",
+            "urlToImage": "https://g.foolcdn.com/editorial/images/566587/woman-finance-calculator-laptop-notebook.jpg",
+            "publishedAt": "2020-04-18T11:01:00+00:00",
+            "content": "In response to the COVID-19 pandemic, the U.S. federal government passed a $2 trillion stimulus bill, the Coronavirus Aid, Relief, and Economic Stimulus Act or CARES Act.\r\nThe Act does many different things to help Americans, including giving most people stim… [+3520 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Japan doctors warn health system may 'break down'",
+            "description": "It comes as coronavirus cases in the country surge, leaving its doctors and hospitals stretched.",
+            "url": "http://www.bbc.co.uk/news/world-asia-52336388",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/E636/production/_111843985_gettyimages-1198669347.jpg",
+            "publishedAt": "2020-04-18T09:43:22Z",
+            "content": "Image copyrightGetty ImagesImage caption\r\n Japan, which initially appeared to have the virus under control, has recorded a flurry of new cases\r\nDoctors in Japan have warned that the country's medical system could collapse amid a wave of new coronavirus cases.… [+4923 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Coronavirus: 'Half of humanity' under social distancing curbs",
+            "description": "As world coronavirus deaths pass 150,000, more than 4.5 billion people are under containment to slow the pandemic.",
+            "url": "http://www.bbc.co.uk/news/live/world-52336209",
+            "urlToImage": "https://m.files.bbci.co.uk/modules/bbc-morph-news-waf-page-meta/4.1.2/bbc_news_logo.png",
+            "publishedAt": "2020-04-18T08:08:16.2311193Z",
+            "content": "The president's re-election campaign says it's still planning to hold rallies, despite warnings over large gatheringsImage caption: The president's re-election campaign says it's still planning to hold rallies, despite warnings over large gatherings\r\nAs the c… [+358 chars]"
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "Matt Lewis",
+            "title": "Cuomo Nails Trump on Coronavirus Preparation: ‘They’re Your Projections’",
+            "description": "It’s almost impossible to win a fight with Trump, but it seems that Cuomo might be doing it here. Trump can't respond with facts, since those are plainly on Cuomo’s side.",
+            "url": "https://www.thedailybeast.com/cuomo-nails-trump-on-coronavirus-preparation-theyre-your-projections",
+            "urlToImage": "https://img.thedailybeast.com/image/upload/c_crop,d_placeholder_euli9k,h_675,w_1200,x_0,y_0/dpr_2.0/c_limit,w_740/fl_lossy,q_auto/v1587169292/mt_wccdrb",
+            "publishedAt": "2020-04-18T07:59:00+00:00",
+            "content": "Donald Trumps Dr. Jekyll always outlasts his Mr. Hyde, and the monster reared its head again on Friday, when Trumps feud with New York Governor Andrew Cuomo escalated as both men leveraged their preferred mediums (Trumps Twitter feed and Cuomos daily briefing… [+503 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Double warning over virus antibody tests",
+            "description": "Experts say screening may not prove immunity from coronavirus, and Britons are warned over unproven tests.",
+            "url": "http://www.bbc.co.uk/news/uk-52335210",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/10F30/production/_111842496_gettyimages-1209968955.jpg",
+            "publishedAt": "2020-04-18T04:32:55Z",
+            "content": "Image copyrightGetty Images\r\nHopes that coronavirus antibody tests could help the UK end its lockdown have been dealt a blow - after the World Health Organization questioned whether they offer any guarantee of immunity.\r\nThe UK has placed antibody tests - whi… [+3197 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Coronavirus: Star-studded concert to be aired",
+            "description": "More than 100 artists will be performing live from their homes in support of frontline workers.",
+            "url": "http://www.bbc.co.uk/news/entertainment-arts-52333890",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/7994/production/_111842113_c774eec8-2852-4fc3-ad1d-b83f6483239b.jpg",
+            "publishedAt": "2020-04-18T04:21:23Z",
+            "content": "Image copyrightALLSPORT/Getty ImagesImage caption\r\n The marathon event will be curated in collaboration with Lady Gaga\r\nA star-studded special concert is to be live-streamed and broadcast on TV to support frontline workers tackling the coronavirus outbreak.\r\n… [+1297 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "John Haltiwanger",
+            "title": "Dr. Fauci throws cold water on conspiracy theory that coronavirus escaped a Chinese lab - Business Insider",
+            "description": "Fox News and Republican allies of President Donald Trump have been pushing the lab narrative hard in recent days, despite a lack of hard evidence.",
+            "url": "http://www.businessinsider.com/fauci-throws-cold-water-conspiracy-theory-coronavirus-escaped-chinese-lab-2020-4",
+            "urlToImage": "https://i.insider.com/5e9a563c92e8ba24d81a40b4?width=1200&format=jpeg",
+            "publishedAt": "2020-04-18T02:04:40Z",
+            "content": "Dr. Anthony Fauci, the nation's top expert on infectious disease, on Friday, rejected a conspiracy theory that the novel coronavirus escaped a Chinese lab. \r\n\"A group of highly-qualified evolutionary virologists looked at the sequences in bats as they evolve.… [+6557 chars]"
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "Reuters",
+            "title": "Trump says US farmers will receive $19 billion for coronavirus mitigation",
+            "description": "President Donald Trump on Friday announced a $19 billion relief program to help farmers cope with the impact of the coronavirus pandemic through a package that will include direct payment and mass purchases of produce, meat and other products.",
+            "url": "https://www.cnbc.com/2020/04/17/trump-says-us-farmers-to-receive-19-billion-for-coronavirus-mitigation.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/106494583-1587163461681a2020-04-17t224024z_2128128920_rc2m6g957omj_rtrmadp_3_health-coronavirus-usa.jpg?v=1587163573",
+            "publishedAt": "2020-04-17T23:12:14+00:00",
+            "content": "President Donald Trump on Friday announced a $19 billion relief program to help farmers cope with the impact of the coronavirus pandemic through a package that will include direct payment and mass purchases of produce, meat and other products.\r\n\"These are gre… [+1271 chars]"
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "Adrienne Dunn",
+            "title": "Fact check: Trump did host rallies, play golf as as COVID-19 outbreak ramped up",
+            "description": "A social media post implied that President Donald Trump was golfing or campaigning as the coronavirus spread. We find this to be true.",
+            "url": "https://www.usatoday.com/story/news/factcheck/2020/04/17/fact-check-trump-had-rallies-golfed-covid-19-outbreak-grew/5126918002/",
+            "urlToImage": "https://www.gannett-cdn.com/presto/2019/08/21/USAT/deca2ac3-dda5-4109-a2b0-46192428200d-AP_Trump_Golf-Scottish_Losses.JPG?crop=5226,2940,x1,y505&width=3200&height=1680&fit=bounds",
+            "publishedAt": "2020-04-17T21:46:10+00:00",
+            "content": "President Donald Trump golfs at one of his courses. The president hit the links several times between January and March 2020, as the coronavirus pandemic unfolded.\r\n (Photo: Ian MacNicol, Getty Images)\r\nThe claim: Trump held rallies, golfed throughout the sta… [+4230 chars]"
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "Steve Clemons",
+            "title": "The Hill's Coronavirus Report: Senior Pa. banking official calls for another $2T package; Trump tips hat to govs | TheHill",
+            "description": "WHAT YOU NEED TO KNOW TODAY > White House unveils plan for phased reopening> Trump shifts testing accountability to state, local governments > Experimental drug shows promise, but not all experts are as hopeful> China raises Wuhan death toll following interna…",
+            "url": "https://thehill.com/homenews/coronavirus-report/493373-coronavirus-daily-update",
+            "urlToImage": "https://thehill.com/sites/default/files/coronavirus_report_graphic_6.jpg",
+            "publishedAt": "2020-04-17T19:26:49+00:00",
+            "content": "VIEW BREAKING NEWS ON CORONAVIRUS \r\nWHAT YOU NEED TO KNOW TODAY \r\n&gt; White House unveils plan for phased reopening\r\n&gt; Trump shifts testing accountability to state, local governments \r\n&gt; Experimental drug shows promise, but not all experts are as hopef… [+15593 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Nick Lichtenberg",
+            "title": "I left NYC amid the coronavirus pandemic. Now I wonder if I'll return. - Business Insider",
+            "description": "We always talked about what would come next, and how nice having a car or washing machine would be. The coronavirus pressed fast forward on that.",
+            "url": "http://www.businessinsider.com/left-new-york-amid-coronavirus-pandemic-wondering-about-return-2020-4",
+            "urlToImage": "https://i.insider.com/5e98ac5029d6d904e3561c66?width=1200&format=jpeg",
+            "publishedAt": "2020-04-17T13:10:00Z",
+            "content": "Business Insider\r\nI'm one of the hundreds, if not thousands, of people who left New York City in March.\r\nMy wife and I made the choice once we realized the scale of the coronavirus pandemic and how much worse it could get. A couple of factors helped us make t… [+6393 chars]"
+        }
+    ]
+}

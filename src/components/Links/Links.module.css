@@ -1,0 +1,101 @@
+.Links {
+    background-color: #ffffff;
+    padding: 20px 0px;
+}
+
+.Links p {
+    font-size: 20px;
+    font-weight: bold;
+    background-color: #F52D5C;
+    padding: 10px;
+    border-radius: 7px;
+}
+
+.FirstHeading {
+    font-size: 38px;
+    font-weight: bold;
+    color: #ffffff;
+    background-color: #FF001966;
+    padding: 20px;
+    margin-bottom: 20px;
+}
+
+.SingleVideo {
+    margin-bottom: 40px;
+}
+
+.Row {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.SecondHeading {
+    font-size: 35px;
+    font-weight: bold;
+    color: #ffffff;
+    background-color: #06BA90;
+    padding: 20px;
+    margin: 20px 0;
+}
+.Video {
+    height: 450px;
+    width: 550px;
+}
+
+@media(max-width:1023px) {
+    .Row {
+        display: block;
+    }
+
+    .FirstHeading {
+        font-size: 30px;
+
+    }
+
+    .Video {
+        height: 400px;
+        width: 700px;
+        margin: 10px;
+    }
+
+    .SecondHeading {
+        font-size: 30px;
+
+    }
+
+    .Links p {
+        font-size: 25px;
+        margin: 0px 50px;
+
+
+    }
+}
+
+@media(max-width:767px) {
+    .Row {
+        display: block;
+    }
+
+    .FirstHeading {
+        font-size: 22px;
+
+    }
+
+    .Video {
+        height: 300px;
+        width: 300px;
+        margin: 10px;
+    }
+
+    .SecondHeading {
+        font-size: 22px;
+
+    }
+
+    .Links p {
+        font-size: 15px;
+        margin: 1px 10px;
+
+
+    }
+}

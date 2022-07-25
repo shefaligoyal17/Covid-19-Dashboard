@@ -1,0 +1,46 @@
+.Box{
+    display: flex;
+    align-items: center ;
+    justify-content: space-evenly;
+    background-color: #ffffff;
+    margin:10px 15px 10px 0px;
+    border-radius: 7px;
+    padding:20px 0px;
+    min-height:110px;
+}
+
+.Label{
+    font-size:14px;
+    font-weight: bold;
+    
+}
+.Error{
+    font-size:20px;
+    font-weight: bold;
+    color:#ff0019;
+    background-color: #fff;
+    min-height:110px;
+    margin:10px 0;
+    border-radius:7px;
+}
+
+.Case{
+    font-size:23px;
+    font-weight: bold;
+    margin-top: 10px;
+}
+
+@media(max-width:1023px){
+    .Box{
+       padding:20px 1px;
+       margin:10px;
+    }
+}
+
+ @media(max-width:767px){
+    .Box{
+        margin:10px;
+ 
+     }
+
+}

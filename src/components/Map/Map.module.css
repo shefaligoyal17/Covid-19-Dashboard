@@ -1,0 +1,99 @@
+.Map{
+    padding:15px;
+    background-color: #ffffff;
+    margin:0px 15px 10px 15px;
+    box-sizing: border-box;
+    border-radius: 7px;
+    width:95%;
+}
+.MapHeading{
+    display: flex;
+    justify-content: flex-start;
+}
+
+.Mapdiv{
+    padding:25px;
+}
+
+
+.MapHeading p{
+    font-size:17px;
+    font-weight: bold;
+    margin-right:80px;
+}
+
+.MapHeading span{
+    font-size: 14px;
+    display:inline-flex;
+
+}
+
+.MapHeading span:before{
+    content:"";
+    display: inline-block;
+    width:15px;
+    height:15px;
+    margin-right:5px;
+    border-radius: 4px;
+}
+
+.FirstIndicator:before{
+    background-color:#ff0019 ;
+}
+
+.SecondIndicator:before{
+    background-color:#ffc4c6 ;
+    margin-left:20px;
+}
+.MapArea{
+    background-color: #fbf6f6;
+    border-radius: 7px;
+    margin-top: 20px;
+    /* margin:20px; */
+    position: relative;
+    min-height:400px;
+    width:100%;
+}
+
+.Map i{
+    padding:10px;
+    background-color: #ffffff;
+    border-radius: 7px;
+    position: absolute;
+    left:0;
+    top:0;
+    transform: translate(40%,40%);
+    box-shadow:1px 1px 8px 0.1px #ddd;
+}
+
+.ZoomFeature{
+    position: absolute;
+    right:0;
+    top:0;
+    transform: translate(-40%,20%);
+
+}
+@media(max-width:1023px){
+    .Map{
+        margin:0px;
+        margin-bottom:10px;
+        width:100%;
+    }
+}
+
+@media(max-width:767px){
+    .Map{
+        margin: 10px 0px;
+        width:100%;
+    }
+    .MapHeading{
+        display:block;
+    }
+    .MapHeading p{
+        margin:0 0 10px 10px;
+    }
+    .MapArea{
+        min-height:200px;
+    }
+
+}

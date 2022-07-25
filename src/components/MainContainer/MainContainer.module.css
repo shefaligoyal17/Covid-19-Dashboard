@@ -1,0 +1,14 @@
+.CountrywiseCases{
+    padding:15px;
+    background-color: #fff;
+    border-radius: 6px;
+    margin-bottom:10px;
+}
+
+@media(max-width:767px){
+    .CountrywiseCases{
+        margin-bottom:0px;
+ 
+     }
+
+}

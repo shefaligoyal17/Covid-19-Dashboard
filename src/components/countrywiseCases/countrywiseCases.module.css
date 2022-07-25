@@ -1,0 +1,64 @@
+.Img{
+    height:24px;
+    width:35px;
+    border-radius: 4px;  
+}
+
+.Div{
+    display:flex;
+    justify-content: space-between;
+}
+
+.Input{
+    height:40px;
+    border-radius:20px;
+    border:1px solid #ccc;
+    font-weight: bold;
+    padding-left:20px;
+    outline: none;
+    background-color: #eeeeee;
+    width:90%;
+    margin-bottom: 8px;
+}
+
+.TextBottom{
+    font-size:12px;
+    font-weight: bold;
+    color:gray;
+    border-right:1px solid gray;
+    padding-right:8px;
+}
+
+.TextBottom:after{
+    padding-left:5px;
+    content:"Affected";
+}
+
+.TextBottomRight{
+    font-size:12px;
+    font-weight: bold;
+    color:gray;
+    padding-left: 8px;
+}
+.TextBottomRight:after{
+    padding-left:5px;
+    content:"Recovered";
+}
+
+.CountryName{
+    font-size:16px;
+    font-weight:600;
+    padding-left:8px; 
+}
+
+
+.Country{
+    background-color: #fff;
+    padding:10px 10px 10px 15px;
+    margin:8px;
+    border-radius: 8px;
+    box-shadow:1px 1px 8px 0.1px #ddd;
+    text-align:left;
+}
+
+

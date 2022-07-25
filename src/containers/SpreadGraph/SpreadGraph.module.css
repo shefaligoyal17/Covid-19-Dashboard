@@ -1,0 +1,120 @@
+.ToggleButtons{
+    text-decoration: none;
+    color:#30313a;
+    background-color: #f7f7f7;
+    font-size:14px;
+    font-weight: bold;
+    padding:8px;
+    border-radius: 7px;
+    outline:0;
+    border:none;  
+}
+
+.Graph p{
+    text-align: left;
+}
+.ToggleButtons:hover,
+.Active{
+    background-color: #52586a;
+    color:#ffffff;
+}
+.MainBox{
+    background-color: #ffffff;
+    border-radius: 7px;
+    margin-right:15px;
+    padding-left:10px;
+    min-height:200px;
+}
+.Box{
+    display:flex;
+    /* background-color: red; */
+    justify-content: space-between;
+    padding:15px;
+    margin-bottom:10px;
+}
+
+.Heading{
+    font-size:18px;
+    font-weight: bold;
+    color:#30313a;
+    padding-top:8px;
+}
+
+.Type{
+    font-size:13px;
+    color:#FF0019;
+}
+
+.Num{
+    font-size:22px;
+    color:#FF0019;
+    font-weight:bold;
+
+}
+
+.TodayCases{
+    font-size:15px;
+    color:#FF0019;
+}
+
+.GraphDiv{
+   min-height:210px;
+}
+
+.Graph{
+    position: absolute;
+    top:0;
+    left:0;
+    z-index:10;
+    margin-top:80px;
+    margin-left:20px;
+}
+
+.Error{
+    font-size:20px;
+    font-weight: bold;
+    margin-top:130px;
+    color:#ff0019;
+}
+
+@media(max-width:1023px){
+    .MainBox{
+        min-height:200px;
+    }
+    .Box{
+        padding:10px;
+        display: block;
+        
+    }
+    .Heading{
+        margin-bottom: 12px;
+    }
+    .Graph{
+        margin-top:110px;
+        margin-left:30px;
+    }
+}
+
+@media(max-width:767px){
+
+    .MainBox{
+        margin-bottom:10px;
+        margin-right:0px;
+        
+    }
+  
+    .Box{
+      
+        padding:10px;
+        display: block;
+        
+    }
+
+    .Heading{
+        margin-bottom: 10px;
+    }
+
+    .Graph{
+        margin-top:100px;
+    }
+}

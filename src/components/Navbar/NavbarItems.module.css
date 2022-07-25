@@ -1,0 +1,27 @@
+.Navbar{
+    list-style-type:none;
+    display:flex;
+    font-weight: bold; 
+    margin-left:300px;
+    padding:0;
+    height:100%;
+    outline:0;
+}
+
+@media(max-width:1023px){
+
+    .Navbar{
+        margin-left:27%;
+    }
+
+}
+@media(max-width:767px){
+    .Navbar{
+        margin-left:15%;
+    }
+
+}
+
+
+
+

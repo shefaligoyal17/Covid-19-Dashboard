@@ -1,0 +1,151 @@
+.Head{
+    font-size:28px;
+    padding:20px;
+    margin:20px 20px 0 20px;
+    background-color: #ffffff;
+    border-radius: 10px;
+    box-shadow:1px 1px 8px 0.1px #ddd;
+    color:#ff0019;
+    text-decoration: underline;
+}
+
+.Div{
+    background-color: #ffffff;
+    margin:20px;
+    padding:20px;
+    border-radius: 10px;
+    box-shadow:1px 1px 8px 0.1px #ddd;
+}
+
+.Div p{
+    font-size:20px;
+    font-weight: bold;
+    margin-bottom:15px;
+}
+
+.Div li{
+    list-style-type: disc;
+    color:#ff0019;
+}
+
+.Div a{
+    text-decoration: none;
+    font-size:18px;
+    color:#ff0019;
+}
+
+.DivDonate{
+    background-color: #ffffff;
+    margin:20px;
+    padding:20px;
+    border-radius: 10px;
+    box-shadow:1px 1px 8px 0.1px #ddd;
+}
+
+.DivDonate h3{
+    font-size:28px;
+    color:#ff0019;
+    margin-bottom:25px;
+    text-decoration: underline;
+}
+.DivDonate ul{
+    display: flex;
+    justify-content: space-evenly;
+}
+.DivDonate li{
+    list-style-type: none;
+    border:0.5px solid #ff0019;
+    border-radius: 4px;
+    padding:10px;
+    box-shadow: 1px 1px 8px 0.1px #ddd;
+    
+}
+
+.DivDonate li a{
+    text-decoration: none;
+    display:inline-block;
+    color:#ff0019;
+}
+
+.Main a:hover{
+    font-weight: bold;
+}
+
+.WHO{
+    background-color: #ffffff;
+    border-radius: 7px;
+    padding:20px;
+    margin:20px;
+}
+.WHO h3{
+    margin-bottom: 20px;
+}
+.WHO h3 a{
+    color:#ff0019;
+    font-size:28px;
+    text-decoration: underline;
+}
+
+.WHO h4{
+    font-size:20px;
+    text-decoration: none;
+}
+.WHO ul{
+    display: flex;
+    flex-wrap: wrap;
+    max-width:100%;    
+}
+
+.WHO li:nth-child(6){
+    margin-right: 0;
+}
+.WHO li{
+    list-style-type: none;
+    border:0.5px solid #ff0019;
+    border-radius: 4px;
+    padding:10px;
+    box-shadow: 1px 1px 8px 0.1px #ddd;
+    margin-right:20px;
+    margin-top:20px;  
+}
+.WHO a{
+text-decoration: none;
+color:#ff0019;
+}
+
+@media(max-width:1023px){
+.Div a{
+    font-size:12px;
+}
+.DivDonate li{
+    margin-right:10px;
+    
+}
+}
+
+@media(max-width:767px){
+    .Head{
+        font-size:20px;
+    }
+
+    .Div a{
+        
+        font-size:12px;
+        
+    }
+    .DivDonate h3{
+        font-size:20px;
+       
+    }
+    .DivDonate ul{
+        display: block;
+    }
+    .DivDonate li{
+        margin-bottom:20px;
+        text-align: center;
+    }
+    .WHO h3 a{
+        font-size:20px;
+        
+    }
+}

@@ -1,0 +1,45 @@
+{   
+    "tweets":[
+    {
+      "created_at": "Apr 18 ",
+      "text": "To slow down #COVID19 transmission and reduce mortality, every country needs to keep implementing a National Action Plan that’s based on a whole-of society approach & a realistic appraisal of what can be done first.",
+      "user": {
+        "name": "World Health Organization",
+        "screen_name": "WHO",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/875476478988886016/_l61qZdR_normal.jpg"
+      },
+      "entities": {
+      },
+      "retweet_count": 16000,
+      "favorite_count": 29500
+    },
+    {
+      "created_at": "Apr 18",
+      "text": "China wants Sleepy Joe sooo badly. They want all of those billions of dollars that they have been paying to the U.S. back, and much more. Joe is an easy mark, their DREAM CANDIDATE!",
+      "user": {
+      "name":"Donald J. Trump",
+      "screen_name": "realDonaldTrump",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_400x400.jpg"
+      },
+      "entities": {
+      },
+      "retweet_count": 2790,
+      "favorite_count": 93800
+      },
+      {
+        "created_at": "Apr 18",
+        "text": "India, with the right blend of the physical and the virtual can emerge as the global nerve centre of complex modern multinational supply chains in the post COVID-19 world. Let us rise to that occasion and seize this opportunity",
+        "user": {
+        "name":"PMO India",
+        "screen_name": "PMOIndia",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1134090740592627712/0Fp-U5-p_400x400.png"
+        },
+        "entities": {
+        },
+        "retweet_count": 50600,
+        "favorite_count": 32000
+        }
+      
+ 
+  ]
+}

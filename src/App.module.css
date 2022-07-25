@@ -1,0 +1,33 @@
+*{
+  margin: 0;
+  padding:0;
+  
+}
+
+.App {
+  text-align: center;
+  box-sizing: border-box;
+  font-family: Arial, Helvetica, sans-serif;
+  background-color:#eee;
+  width:100%;
+  
+}
+.Contain{
+  width:100%;
+  margin:0 auto;
+  max-width: 1800px;
+}
+.CircularProgressbar-path{
+  stroke: rgb(6, 186, 144);
+  stroke-dasharray: 289.027px, 289.027px;
+  stroke-dashoffset: 222.839px;
+  stroke-width:20
+}
+
+.Errorpage{
+  font-size:45px;
+  color:#ff0019;
+  background-color: #fff;
+  padding:150px 0px;
+}
+
